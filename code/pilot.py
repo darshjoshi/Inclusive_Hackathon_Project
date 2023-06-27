@@ -12,7 +12,7 @@ import os
 import chainlit as cl
 import PyPDF2
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "........ADD YOUR API KEY........."
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
 
