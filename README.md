@@ -21,7 +21,7 @@ Our team chose to work on a problem statement in the domain of Generative AI. Th
 [Evaluation (Experimental)](Evaluation_(Experimental)) : This directory contains an experiment we did to provide Evaluation metrics for generated responses.
 
 
-[Fine Tuning Data](Fine-Tuning Data) : Here, you will find Data in Json file that we used to fine tune our openai Base model. 
+[Fine Tuning Data](Fine-Tuning_Data) : Here, you will find Data in Json file that we used to fine tune our openai Base model. 
 
 
 Presentations/: This directory contains presentations in pdf and pptx format as we presentation in our final submission. 
