@@ -24,19 +24,19 @@ Our team chose to work on a problem statement in the domain of Generative AI. Th
 [Fine Tuning Data](Fine-Tuning_Data) : Here, you will find Data in Json file that we used to fine tune our openai Base model. 
 
 
-[Presentations](Presentations)Presentations/: This directory contains presentations in pdf and pptx format as we presentation in our final submission. 
+[Presentations](Presentations): This directory contains presentations in pdf and pptx format as we presentation in our final submission. 
 
 
-[Problem Statement](Problem_Statements)/: In this folder, you can find the problem statements provided to us at the start of 5 week long hackathon.
+[Problem Statement](Problem_Statements): In this folder, you can find the problem statements provided to us at the start of 5 week long hackathon.
 
 
-[Test Documents](Test_Documents)/: Here you can have a look at documents that we presented in demo of our project presentation.
+[Test Documents](Test_Documents): Here you can have a look at documents that we presented in demo of our project presentation.
 
 
-[Trial Project](Trial_Project)/: This directory contains a prototype (Practice) version of our solution we experimented during those 5 weeks. 
+[Trial Project](Trial_Project): This directory contains a prototype (Practice) version of our solution we experimented during those 5 weeks. 
 
 
-[Code](code)/: this is the directory where you can find the python file which contains the code and relevant documents.
+[Code](code): this is the directory where you can find the python file which contains the code and relevant documents.
 
 
 README.md: The file you are currently reading, providing an overview of the project.
