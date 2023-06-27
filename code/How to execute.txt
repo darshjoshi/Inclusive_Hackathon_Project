@@ -1,0 +1,15 @@
+This text file will provide a guide on how to execute the chainlit application
+
+_______________________________________________________________________________
+REQUIRED LIBRARIES:
+chainlit
+langchain
+Pypdf2
+openai
+
+
+_______________________________________________________________________________
+STEPS:
+1. set the CMD path where the files are located
+2. run the .py file under the domain of chainlit as:
+	chainlit run .\file-name.py(in this repo, its pilot.py)
