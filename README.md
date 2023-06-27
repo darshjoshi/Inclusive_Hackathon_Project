@@ -18,13 +18,27 @@ Our team chose to work on a problem statement in the domain of Generative AI. Th
 
 ## Repository Structure
 
-Evaluation (Experimental) /: This directory contains an experiment we did to provide Evaluation metrics for generated responses. 
+Evaluation (Experimental) /: This directory contains an experiment we did to provide Evaluation metrics for generated responses.
+
+
 Fine-Tuning Data/: Here, you will find Data in Json file that we used to fine tune our openai Base model. 
+
+
 Presentations/: This directory contains presentations in pdf and pptx format as we presentation in our final submission. 
+
+
 Problem Statement/: In this folder, you can find the problem statements provided to us at the start of 5 week long hackathon.
+
+
 Test Documents/: Here you can have a look at documents that we presented in demo of our project presentation.
+
+
 Trial Project/: This directory contains a prototype (Practice) version of our solution we experimented during those 5 weeks. 
-code/: this is the directory where you can find the python file which contains the code and relevant documents. 
+
+
+code/: this is the directory where you can find the python file which contains the code and relevant documents.
+
+
 README.md: The file you are currently reading, providing an overview of the project.
 
 We hope that our project contributes to enhancing financial report analysis and decision-making processes using the power of generative AI. If you have any questions or feedback, please feel free to reach out to our team members.
