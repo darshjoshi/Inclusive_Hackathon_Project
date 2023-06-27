@@ -1,0 +1,178 @@
+[
+ {
+   "prompt": "What is the current status of financial literacy education?",
+   "completion": " Financial literacy education has transitioned from being a private concern to a national public policy issue as it has been recognized that individual financial decisions impact the national economy."
+ },
+ {
+   "prompt": "How many states have adopted personal finance education standards or guidelines?",
+   "completion": " Currently, 80% of states have implemented personal finance education standards or guidelines, which is almost double the number from 1998."
+ },
+ {
+   "prompt": "What is the focus of this study on personal finance education?",
+   "completion": " The study focuses on understanding the characteristics and needs of teachers who play a crucial role in the implementation and success of personal finance education."
+ },
+ {
+   "prompt": "What were the findings regarding teachers' preparation for teaching personal finance?",
+   "completion": " The study found that few teachers have received formal preparation for teaching personal finance, and their preparedness varies in both subject matter and pedagogy, particularly in technical areas such as risk management, insurance, saving, and investing."
+ },
+ {
+   "prompt": "What were the concerns expressed by teachers regarding personal finance education?",
+   "completion": " Teachers expressed concerns about their own personal financial well-being, especially regarding future retirement income adequacy."
+ },
+ {
+   "prompt": "What were the results of previous studies on teachers' knowledge of personal finance?",
+   "completion": " Previous studies conducted in the late 1970s found that both newly certified teachers and practicing teachers had limited knowledge in various areas of personal finance, with significant differences based on gender, education level, and disciplinary background."
+ },
+ {
+   "prompt": "What were the objectives of the present study on teachers' capacity to teach financial education?",
+   "completion": " The objectives of the study were to assess teachers' prior education in personal finance topics and pedagogy, their perceived competence in these areas, their personal financial concerns, and their opinions about teaching personal finance education."
+ },
+ {
+   "prompt": "How was the data gathered for the study on teachers' capacity to teach financial education?",
+   "completion": " The data for the study were collected through online surveys of K-12 teachers in eight states, with two states from each of the four U.S. census regions."
+ },
+ {
+   "prompt": "How were the teachers selected for the survey?",
+   "completion": " Teachers with email addresses were identified from publicly available school district websites in one elementary, middle, and high school within each of three city sizes (small, medium, and large) in each state. A total of three school districts and nine schools per state were included in the study."
+ },
+ {
+   "prompt": "What methods were used to contact the respondents?",
+   "completion": " The respondents were initially contacted through email cover letters that requested them to log in to a website containing the online survey. Additionally, lottery prizes in the form of $200 gift cards for BestBuy and four follow-up reminders were used to enhance survey response rates."
+ },
+ {
+   "prompt": "How many valid responses were received for the survey?",
+   "completion": " A total of 504 valid responses were received for the survey, which corresponded to a 15% response rate based on all the emails sent."
+ },
+ {
+   "prompt": "What were the characteristics of the K-12 teacher respondents in the study?",
+   "completion": " The K-12 teacher respondents closely resembled the national characteristics of K-12 teachers in terms of gender, race/ethnicity, marital status, and educational level. The majority of respondents were female (71.3%), white (83.9%), and married (71.2%)."
+ },
+ {
+   "prompt": "How did the age and experience of the respondents compare to teachers nationally?",
+   "completion": " The respondents in the study were slightly younger and less experienced than teachers nationally. The sample had a median age of 43 compared to the national average of 46 years, and a median of 10 years of teaching experience compared to the national average of 14 years."
+ },
+ {
+   "prompt": "What educational qualifications did the respondents hold?",
+   "completion": " Virtually all respondents held a bachelor's degree, and slightly over half (51.8%) held a master's degree."
+ },
+ {
+   "prompt": "What grade levels and disciplinary teaching assignments were represented by the respondents?",
+   "completion": " The respondents represented a wide range of grade levels and disciplinary teaching assignments. In terms of grade level, the distribution was as follows: Pre K-2 (9.9%), grades 3-5 (12.4%), grades 6-8 (31%), and grades 9-12 (53.9%). The disciplines represented included elementary education, mathematics, English/language arts, special education, science, social studies, vocational/technical education, art and music, foreign language, health education, and English as a second language."
+ },
+ {
+   "prompt": "What percentage of teacher respondents reported having taken college coursework with financial education-related content?",
+   "completion": " Only slightly more than one third (37%) of the teacher respondents reported having ever taken college coursework with any financial education-related content."
+ },
+ {
+   "prompt": "Which courses related to financial education were most frequently reported by the respondents?",
+   "completion": " The most frequently reported course taken by the respondents was macro- or microeconomics (27.8%), followed by consumer economics (10.1%), personal/consumer finance (8.8%), and finance and investments (6.6%). Fewer than 3% had taken a college course related to teaching personal finance."
+ },
+ {
+   "prompt": "How many teachers reported attending non-credit workshops on personal finance topics?",
+   "completion": " Only 18.9% of respondents reported having taken a non-credit workshop on financial education subject matter in the past 3 years, and only 11.6% reported having taken a non-credit workshop on teaching financial education during the same time period."
+ },
+ {
+   "prompt": "How do teachers seek out financial information for their own financial well-being?",
+   "completion": " Teachers seek out financial information through informal avenues. About half of the teachers (50.4%) reported consulting a professional financial planner, while others consulted benefits specialists at their place of employment (33.8%) or attended workplace presentations on financial topics (23.3%)."
+ },
+ {
+   "prompt": "What percentage of respondents reported having taught financial literacy topics?",
+   "completion": " Less than a third of the respondents (29.7%) reported having taught financial literacy topics."
+ },
+ {
+   "prompt": "What statistical significance level was used in the multivariate logistic regression analyses?",
+   "completion": " The statistical significance level used in the multivariate logistic regression analyses was p ≤ .05."
+ },
+ {
+   "prompt": "What variables were included in the regression analyses?",
+   "completion": " The variables included in the regression analyses were gender, race, marital status, teaching experience, presence of financial education mandates in the state, poverty incidence of the teachers' school districts, and disciplinary areas."
+ },
+ {
+   "prompt": "Why was teaching experience chosen over age as a variable in the regression analysis?",
+   "completion": " Teaching experience was chosen over age as a variable in the regression analysis because of the importance of the timing of training in determining whether financial education was included in a teacher's education and the significance of seniority and experience in the ability of teachers to modify or introduce new curricula."
+ },
+ {
+   "prompt": "Why were measures of whether teachers were in states with financial education mandates included in the regression analysis?",
+   "completion": " Measures of whether teachers were in states with financial education mandates were included in the regression analysis because state standards play a crucial role in determining the nature of teacher preparation and teaching assignments in the field of financial education."
+ },
+ {
+   "prompt": "Why was the poverty incidence of the teachers' school districts included as a variable in the regression analysis?",
+   "completion": " The poverty incidence of the teachers' school districts was included as a variable in the regression analysis to address concerns about the potential bias of the online survey towards wealthier districts and to understand the potential influence of socioeconomic factors on teachers' training and background in personal finance."
+ },
+ {
+   "prompt": "Why were disciplinary areas included as variables in the regression analysis?",
+   "completion": " Disciplinary areas were included as variables in the regression analysis because it was hypothesized that teachers' disciplinary specialty would be a significant factor in the relevant courses they had taken and the pressure they faced in teaching personal finance. Understanding the gaps in training, experience, and competency across different disciplinary areas is important in assessing teachers' preparedness in personal finance education."
+ },
+ {
+   "prompt": "What were the statistically significant predictors of teachers having taken a formal course or workshop with personal finance content?",
+   "completion": " Gender and subject-matter background were the only statistically significant predictors. Female teachers were less likely to have taken a formal course related to personal finance compared to male teachers. Teachers in vocational subjects and social studies were more likely to have taken a personal finance-related course."
+ },
+ {
+   "prompt": "What did teachers believe about the inclusion of financial education in schools?",
+   "completion": " Teachers widely believed that financial education should be required for high school students. They felt that teachers in their own disciplines should be better prepared to teach personal finance than they currently were. However, many teachers questioned the relevancy of financial education for elementary school children."
+ },
+ {
+   "prompt": "How competent did teachers feel in teaching specific personal finance topics?",
+   "completion": " Relatively few teachers reported feeling very competent in any of the personal finance topic areas. They felt most competent in teaching income and careers and planning and money management, but fewer than 20% felt \"very well prepared\" in these areas. Teachers reported feeling least competent in areas such as risk management and insurance, saving and investing, and financial responsibility and decision-making."
+ },
+ {
+   "prompt": "What were the predictors of teachers' perceived lack of competency to teach personal finance topics?",
+   "completion": " Teachers who had a college course in a personal finance-related subject area were less likely to report a lack of competency to teach personal finance topics. Female teachers were more likely to report lack of competence in areas beyond income and careers, financial responsibility, and credit and debt. Teachers in vocational education fields were less likely to report incompetence compared to elementary education teachers."
+ },
+ {
+   "prompt": "How did teachers perceive their qualifications in personal finance pedagogy?",
+   "completion": " The majority of teachers reported feeling unqualified to use personal finance educational standards recommended by the Jump$tart Coalition and their state. They also felt limited in their ability to design disciplinary-specific curriculum, employ instructional strategies, and address learner needs."
+ },
+ {
+   "prompt": "What were some of the top financial concerns expressed by teachers?",
+   "completion": " The top financial concerns expressed by teachers included having enough money for retirement, finding ways to supplement their income as a teacher, paying for their children's college education, knowing the best investment strategies, and understanding tax laws. Income sufficiency was a significant concern for a large proportion of teachers."
+ },
+ {
+   "prompt": "Did teachers' financial concerns vary based on their characteristics?",
+   "completion": " Married teachers were more likely to express concern about paying for their children's college education compared to non-married teachers. Nonwhite teachers were also more likely to express this concern. Years of teaching experience and being a special education teacher were significant predictors of concern about supplementing income. Teachers with more experience were more likely to express concerns about wise investment choices."
+ },
+ {
+   "prompt": "What is one of the main conclusions of the study mentioned in the article?",
+   "completion": " A majority of teachers recognize the need for personal finance education."
+ },
+ {
+   "prompt": "What percentage of teachers agree that it would be desirable for students to take a financial literacy course or pass a test for high school graduation?",
+   "completion": " All but a small minority (11%) agree or strongly agree."
+ },
+ {
+   "prompt": "What percentage of teachers are currently teaching financial topics?",
+   "completion": " Only 29.7% of teachers are teaching financial topics in any way."
+ },
+ {
+   "prompt": "What percentage of teachers have taken a related college course in personal finance?",
+   "completion": " Only 37% of teachers have taken a related college course."
+ },
+ {
+   "prompt": "Which teachers are more likely to have taken personal-finance related coursework for credit?",
+   "completion": " Teachers with backgrounds in vocational education and social studies are more likely than those in other disciplines to have taken personal-finance related coursework for credit."
+ },
+ {
+   "prompt": "Which subject areas do teachers express the greatest hesitancy about teaching?",
+   "completion": " Teachers express the greatest hesitancy about teaching the more technical topic areas of risk management and insurance, and saving and investing."
+ },
+ {
+   "prompt": "What is a significant predictor of teachers' perceived competence to teach personal finance topics?",
+   "completion": " Having had formal education related to personal finance, especially college coursework, is a significant predictor of teachers' perceived competence to teach personal finance topics."
+ },
+ {
+   "prompt": "What aspects of financial education pedagogy do teachers feel unqualified in?",
+   "completion": " Teachers feel unqualified in financial education pedagogy, including their ability to use financial education standards, design curriculum and resources, employ instructional strategies, and address learner needs related to personal finance."
+ },
+ {
+   "prompt": "What are some concerns that practicing teachers have regarding personal finance?",
+   "completion": " Practicing teachers are concerned about whether they will have sufficient money for retirement, the best strategies for investing their money, supplementing their income as a teacher, and paying for their children's college education."
+ },
+ {
+   "prompt": "What is a chief concern among teachers regarding their personal finances?",
+   "completion": " A chief concern among teachers is whether or not they will have sufficient money for retirement."
+ },
+ {
+   "prompt": "What is an implication of the study mentioned in the article?",
+   "completion": " There is a great need to expand personal finance educational opportunities for pre-service and in-service teachers in order to meet both their personal and professional needs."
+ }
+]
